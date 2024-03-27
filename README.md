@@ -9,7 +9,7 @@ The analysis is based on three Excel sheets provided in the Retail Data.xlsx fil
  - Customer: Contains information about customers, including demographics.
  - Transaction: Records of customer transactions.
  - Product Hierarchy: Information about products, including category and sub-category.
- - 
+   
 # Analysis and Reporting
 
  ### Summary Report: Includes column names with data types, observations, a five-number summary for continuous variables, and frequency tables for categorical variables.
